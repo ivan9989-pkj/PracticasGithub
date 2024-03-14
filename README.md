@@ -1,0 +1,1 @@
+Esto es un readme hecho para una practica de una actividad de empresa es un pequeño formulario solo con una funcionalidad casi nula solo te dira que se envia el formulario.

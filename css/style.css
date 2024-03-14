@@ -1,0 +1,40 @@
+
+h1{
+    text-align: center;
+}
+
+
+form{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 2rem;
+    background-color: aquamarine;
+    padding: 2rem;
+    border-radius: 1rem;
+}
+
+label{
+    margin-right: 100%;
+    margin-bottom: 0.5rem;
+}
+
+input{
+    margin-bottom: 2rem;
+}
+
+
+button{
+    background-color:blueviolet;
+    text-decoration: none;
+    font-size: large;
+    padding: 0.5rem;
+    
+}
+
+button:hover{
+    background-color: aqua;
+    
+}
